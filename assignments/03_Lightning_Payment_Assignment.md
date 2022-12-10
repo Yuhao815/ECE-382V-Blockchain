@@ -20,10 +20,3 @@ link: [lightningdecoder.com](https://lightningdecoder.com/lntb10u1p3cstcgpp5l903
 txid: 020050c8d3283876555dc407d0f59b3758a238103a2c7844a0b4e23e617a2601  
 link: [mempool.space](https://mempool.space/testnet/tx/020050c8d3283876555dc407d0f59b3758a238103a2c7844a0b4e23e617a2601)
 
-## Questions
-
-> *What did you use to connect to the lightning network?*  
-Core Lightning with Sauron plugin, LND in Neutrino mode.
-
-> *What did you use to connect to the blockchain?*  
-LND Neutrino Client, Sauron plugin with blockstream API.
